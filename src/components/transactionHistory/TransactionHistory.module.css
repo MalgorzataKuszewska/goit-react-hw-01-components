@@ -1,0 +1,17 @@
+.transactionHistory {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  margin-left: 50px;
+  font-size: 16px;
+  padding: 5px;
+}
+
+.label {
+  padding: 10px;
+}
+
+.item {
+  text-align: center;
+  padding: 5px;
+}
